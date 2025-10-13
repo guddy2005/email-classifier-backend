@@ -1,0 +1,317 @@
+[
+  {
+    "text": "Hi team, let's schedule a meeting for next week to discuss the project update.",
+    "label": "Primary"
+  },
+  {
+    "text": "Your order #12345 has shipped! Track your package now.",
+    "label": "Primary"
+  },
+  {
+    "text": "URGENT: Your account needs immediate attention. Click here to verify.",
+    "label": "Spam"
+  },
+  { "text": "Claim your free prize now! Limited time offer!", "label": "Spam" },
+  { "text": "Viagra cheap, buy now, best prices guaranteed", "label": "Spam" },
+  {
+    "text": "Don't miss out! 50% off on all items this weekend only.",
+    "label": "Promotions"
+  },
+  {
+    "text": "Exclusive deals just for you from your favorite store.",
+    "label": "Promotions"
+  },
+  {
+    "text": "Check out our new arrivals and weekly newsletter.",
+    "label": "Promotions"
+  },
+  {
+    "text": "Hi John, just following up on our conversation from yesterday.",
+    "label": "Primary"
+  },
+  { "text": "Invoice from Acme Corp due in 5 days.", "label": "Primary" },
+  {
+    "text": "Your Facebook friend posted a new photo.",
+    "label": "Social"
+  },
+  {
+    "text": "You have a new connection request on LinkedIn.",
+    "label": "Social"
+  },
+  {
+    "text": "Someone mentioned you on Twitter.",
+    "label": "Social"
+  },
+  {
+    "text": "Password reset request for your account.",
+    "label": "Primary"
+  },
+  {
+    "text": "Your Amazon.com order of 'The Pragmatic Programmer' has been dispatched.",
+    "label": "Primary"
+  },
+  {
+    "text": "Meeting Invitation: Project Sync-up @ 3 PM tomorrow.",
+    "label": "Primary"
+  },
+  {
+    "text": "Your monthly bank statement is now available.",
+    "label": "Primary"
+  },
+  {
+    "text": "CONGRATULATIONS! You've won a $1,000,000 lottery!",
+    "label": "Spam"
+  },
+  {
+    "text": "Lose 30 pounds in 30 days with this one weird trick.",
+    "label": "Spam"
+  },
+  {
+    "text": "Your account has been suspended due to suspicious activity. Please login to restore.",
+    "label": "Spam"
+  },
+  {
+    "text": "Hot singles in your area want to meet you tonight.",
+    "label": "Spam"
+  },
+  {
+    "text": "Black Friday starts now! Up to 70% off everything.",
+    "label": "Promotions"
+  },
+  {
+    "text": "We miss you! Here's a 20% off coupon for your next purchase.",
+    "label": "Promotions"
+  },
+  {
+    "text": "Join our webinar on 'The Future of AI' next Tuesday.",
+    "label": "Promotions"
+  },
+  {
+    "text": "Flash Sale: Laptops and electronics for a limited time.",
+    "label": "Promotions"
+  },
+  {
+    "text": "You appeared in 9 searches this week on LinkedIn.",
+    "label": "Social"
+  },
+  {
+    "text": "A new video was posted by your favorite creator on YouTube.",
+    "label": "Social"
+  },
+  {
+    "text": "See what's happening in your neighborhood on Nextdoor.",
+    "label": "Social"
+  },
+  {
+    "text": "You have a new memory from 5 years ago on Facebook.",
+    "label": "Social"
+  },
+  {
+    "text": "Can you help me with the report? It's due EOD.",
+    "label": "Primary"
+  },
+  {
+    "text": "Your flight to San Francisco is confirmed. Itinerary attached.",
+    "label": "Primary"
+  },
+  {
+    "text": "Your package will be delivered today between 2-4 PM.",
+    "label": "Primary"
+  },
+  {
+    "text": "A document has been shared with you on Google Docs.",
+    "label": "Primary"
+  },
+  {
+    "text": "Your appointment with Dr. Smith is confirmed for tomorrow at 10 AM.",
+    "label": "Primary"
+  },
+  {
+    "text": "Thanks for your payment. Your receipt is attached.",
+    "label": "Primary"
+  },
+  {
+    "text": "Quick question about the presentation slides.",
+    "label": "Primary"
+  },
+  {
+    "text": "Nigerian prince needs your help to transfer funds.",
+    "label": "Spam"
+  },
+  {
+    "text": "You have been selected for a secret shopper program. Earn $500/week.",
+    "label": "Spam"
+  },
+  {
+    "text": "Your computer is infected with a virus! Download our cleaner now!",
+    "label": "Spam"
+  },
+  {
+    "text": "Get a free iPhone 14, just pay for shipping.",
+    "label": "Spam"
+  },
+  {
+    "text": "Enlarge your... well, you know. Click here for pills.",
+    "label": "Spam"
+  },
+  {
+    "text": "Cyber Monday Sneak Peek: The deals are coming.",
+    "label": "Promotions"
+  },
+  {
+    "text": "Your cart is waiting! Complete your purchase now.",
+    "label": "Promotions"
+  },
+  {
+    "text": "New course available: 'Mastering React in 2024'.",
+    "label": "Promotions"
+  },
+  {
+    "text": "This is your last chance to save 30% on your subscription.",
+    "label": "Promotions"
+  },
+  {
+    "text": "Happy Birthday! Here's a special gift from us.",
+    "label": "Promotions"
+  },
+  {
+    "text": "Your friend tagged you in a post on Instagram.",
+    "label": "Social"
+  },
+  {
+    "text": "You have a new follower on Pinterest.",
+    "label": "Social"
+  },
+  {
+    "text": "Upcoming event: 'Community BBQ this Saturday'.",
+    "label": "Social"
+  },
+  {
+    "text": "Check out these trending pins we picked for you.",
+    "label": "Social"
+  },
+  {
+    "text": "A new message is waiting for you in your Reddit inbox.",
+    "label": "Social"
+  },
+  {
+    "text": "Your weekly digest from Medium is here.",
+    "label": "Promotions"
+  },
+  {
+    "text": "Don't forget to RSVP for the company holiday party.",
+    "label": "Primary"
+  },
+  {
+    "text": "Your credit score has changed. See your new report.",
+    "label": "Primary"
+  },
+  {
+    "text": "You have an unread message from your doctor's office.",
+    "label": "Primary"
+  },
+  {
+    "text": "Your free trial is ending soon. Upgrade to keep your access.",
+    "label": "Promotions"
+  },
+  {
+    "text": "Someone commented on your photo on Flickr.",
+    "label": "Social"
+  },
+  {
+    "text": "You've been invited to a new Slack workspace.",
+    "label": "Primary"
+  },
+  {
+    "text": "Claim your inheritance of $10,000,000 from a long lost relative.",
+    "label": "Spam"
+  },
+  {
+    "text": "Your bank account has been locked. Please verify your identity.",
+    "label": "Spam"
+  },
+  {
+    "text": "A new job matching your profile has been posted on Indeed.",
+    "label": "Promotions"
+  },
+  {
+    "text": "Your GitHub Actions workflow has failed.",
+    "label": "Primary"
+  },
+  {
+    "text": "You have a new private message on Behance.",
+    "label": "Social"
+  },
+  {
+    "text": "Your subscription to 'Tech Weekly' has been renewed.",
+    "label": "Primary"
+  },
+  {
+    "text": "Get a free stock when you sign up for Robinhood.",
+    "label": "Promotions"
+  },
+  {
+    "text": "Your Amazon Prime membership is renewing soon.",
+    "label": "Primary"
+  },
+  {
+    "text": "You have a new suggestion on Goodreads.",
+    "label": "Social"
+  },
+  {
+    "text": "Work from home and earn $5000 a month. No experience needed.",
+    "label": "Spam"
+  },
+  {
+    "text": "Your Netflix bill is due. Please update your payment method.",
+    "label": "Primary"
+  },
+  {
+    "text": "Your Dropbox is almost full. Upgrade for more space.",
+    "label": "Promotions"
+  },
+  {
+    "text": "You have a new review on your Etsy shop.",
+    "label": "Social"
+  },
+  {
+    "text": "Your Apple ID was used to sign in to a new device.",
+    "label": "Primary"
+  },
+  {
+    "text": "Re: Following up on our call last week",
+    "label": "Primary"
+  },
+  {
+    "text": "Your mortgage application has been approved.",
+    "label": "Primary"
+  },
+  {
+    "text": "This is not a drill! 90% off everything for 1 hour only.",
+    "label": "Promotions"
+  },
+  {
+    "text": "Your friend just joined TikTok. Follow them now!",
+    "label": "Social"
+  },
+  {
+    "text": "You've received a new secure message from your bank.",
+    "label": "Primary"
+  },
+  {
+    "text": "Your PayPal account has unusual activity. Log in to confirm.",
+    "label": "Spam"
+  },
+  {
+    "text": "A new pull request needs your review on GitHub.",
+    "label": "Primary"
+  },
+  {
+    "text": "Your weekly Spotify playlist is ready.",
+    "label": "Promotions"
+  },
+  {
+    "text": "You have a new message in your Meetup group.",
+    "label": "Social"
+  }
+]
