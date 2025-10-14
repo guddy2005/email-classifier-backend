@@ -1,5 +1,4 @@
 require("dotenv").config();
-const {google} = require("googleapis");
 
 const express = require("express");
 const http = require("http"); // Import http for Socket.IO
@@ -9,7 +8,6 @@ const passport = require("passport");
 const connectDB = require("./config/db");
 const authRoutes = require("./routes/auth.routes");
 const emailRoutes = require("./routes/email.routes");
-require("./config/passport-setup");
 
 const app = express();
 
@@ -23,7 +21,6 @@ app.use(
 
 app.use(express.json());
 app.use(passport.initialize());
-
 
 app.use("/api/auth", authRoutes);
 app.use("/api", emailRoutes);
