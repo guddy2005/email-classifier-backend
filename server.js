@@ -32,7 +32,7 @@ app.get("/api", (req, res) => {
 const httpServer = http.createServer(app);
 const io = new Server(httpServer, {
   cors: {
-    origin: "http://localhost:3000",
+    origin: "https://email-classifier-zeta.vercel.app",
     methods: ["GET", "POST"],
   },
 });
