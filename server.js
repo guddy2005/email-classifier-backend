@@ -13,9 +13,13 @@ const app = express();
 
 connectDB();
 
+const allowedOrigins = process.env.CORS_ORIGIN
+  ? process.env.CORS_ORIGIN.split(",")
+  : [];
+
 app.use(
   cors({
-    origin: "https://email-classifier-zeta.vercel.app",
+    origin: allowedOrigins,
   }),
 );
 
@@ -32,7 +36,7 @@ app.get("/api", (req, res) => {
 const httpServer = http.createServer(app);
 const io = new Server(httpServer, {
   cors: {
-    origin: "https://email-classifier-zeta.vercel.app",
+    origin: allowedOrigins,
     methods: ["GET", "POST"],
   },
 });
